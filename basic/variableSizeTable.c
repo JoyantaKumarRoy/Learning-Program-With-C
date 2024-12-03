@@ -11,5 +11,6 @@ int main() {
     printf("float\t%d\n", sizeof(float));
     printf("double\t%d\n", sizeof(double));
     printf("char\t%d\n", sizeof(char));
+    printf("long\t%d\n", sizeof(long long));
     return 0;
 }
